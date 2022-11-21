@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "vkvbit.me",
+  "Id": "4e0b7cd0-bf12-48d2-b452-6f8488e62827"
+}
