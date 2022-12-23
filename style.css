@@ -1,0 +1,125 @@
+/* Welcome here, 
+ * you can say hello 
+ * or see other projects like this 
+ * at quentinrenaux.com
+ * and we can speak at    
+ * twitter : @quentinrenaux 
+ * insta : @quentinrenaux
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+
+/* BASIC CODE  
+ * ------------------ */
+*, div, p, img {  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+/* BODY CODE  
+ * ------------------ */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background: #ddd;
+    }
+
+/* MASONRY GRID 
+ * ------------------ */
+.css-masonry { 
+    -webkit-column-count: 4;
+    -moz-column-count:4;
+    column-count: 4;
+    
+    -webkit-column-gap: 1em;
+    -moz-column-gap: 1em;
+    column-gap: 1em;
+    
+    -moz-column-gap: 1.5em;
+    -webkit-column-gap: 1.5em;    
+    column-gap: 1.5em;
+    
+    margin: 1.5em;    
+    padding: 0;
+    font-size: .85em;
+}
+
+/* ITEM 
+ * ------------------ */
+.item {
+    display: inline-block;
+    width: 100%;
+    
+    font-family: 'Alata', sans-serif;
+    font-size: 1.8em;
+    
+    background: #fff;
+    margin: 0 0 1em;
+    width: 100%;
+    
+	-webkit-transition:1s ease all;
+
+    border: 2px solid black;
+    border-radius: 6px; 
+    overflow: hidden; /* to affect the inner elements with the radius */
+}
+
+.item img{ max-width:100%; font-size: 0; height: auto; /* to be sure to don't have a spacing after the img due to the inline block function */ }
+
+.item-number {
+    border: 2px solid black;
+    border-radius: 50%;
+    background: #fff;
+    
+    
+    font-size: 0.8em;
+    display: flex; /* flex is for center verticaly and horizontaly the number */
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    padding: 0 2px 2px 0; /* I display right and bottom padding because of the font who is not center par default : delete if you change the font */
+    
+    position: absolute;
+    margin: 5px;
+}
+
+.item .title {
+    border: 0px solid blue;
+    padding: 10px 10px 14px;
+}
+
+.french {color: grey; font-size: 0.8em;}
+
+@media only screen and (max-width: 420px) {
+    .css-masonry {
+        -moz-column-count: 1;
+        -webkit-column-count: 1;
+        column-count: 1;
+    }
+}
+
+@media only screen and (min-width: 421px) and (max-width: 768px){
+    .css-masonry {
+        -moz-column-count: 2;
+        -webkit-column-count: 2;
+        column-count: 2;
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 1000px){
+    .css-masonry {
+        -moz-column-count: 3;
+        -webkit-column-count: 3;
+        column-count: 3;
+    }
+}
+@media only screen and (min-width: 1001px) {
+    .css-masonry {
+        -moz-column-count: 4;
+        -webkit-column-count: 4;
+        column-count: 4;
+    }
+}
