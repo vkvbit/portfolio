@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://vkvbit.me/index.html</loc>
+    <image:image>
+      <image:loc>https://vkvbit.me/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/images/Profile-square-p-1080.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://vkvbit.me/album.html</loc>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/1.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/2.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/3.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/4.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/5.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/6.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/7.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/8.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/9.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/10.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://vkvbit.me/album/15.jpg</image:loc>
+    </image:image>
+    
+  </url>
+
+  <url>
+    <loc>https://cs.vkvbit.me/index.html</loc>
+  </url>
+  <url>
+    <loc>https://htb.vkvbit.me/index.html</loc>
+  </url>
+  <url>
+    <loc>https://qh.vkvbit.me/index.html</loc>
+  </url>
+
+</urlset>
