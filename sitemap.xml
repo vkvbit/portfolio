@@ -62,17 +62,19 @@
   </url>
 
   <url>
-    <loc>https://blog.vkvbit.live</loc>
-  </url>
-
-  <url>
     <loc>https://cs.vkvbit.live/index.html</loc>
   </url>
   <url>
     <loc>https://htb.vkvbit.live/index.html</loc>
   </url>
   <url>
-    <loc>https://qh.vkvbit.live/index.html</loc>
+    <loc>https://notebook.vkvbit.live/index.html</loc>
+  </url>
+  <url>
+    <loc>https://rbtab.vkvbit.live/index.html</loc>
+  </url>
+  <url>
+    <loc>https://qwertyhero.vkvbit.live/index.html</loc>
   </url>
 
 </urlset>
