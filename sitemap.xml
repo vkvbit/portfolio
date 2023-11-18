@@ -124,7 +124,7 @@
         <loc>/data/telecom/East/west.bengal</loc>
     </url>
     <url>
-        <loc>/data/telecom/East/Bihar&Jharkhand</loc>
+        <loc>/data/telecom/East/Bihar&amp;Jharkhand</loc>
     </url>
     <!-- ... (repeat for other East subdirectories) ... -->
     <url>
@@ -152,7 +152,7 @@
         <loc>/data/telecom/West/mpcg</loc>
     </url>
     <url>
-        <loc>/data/telecom/West/m&g</loc>
+        <loc>/data/telecom/West/m&amp;g</loc>
     </url>
     <url>
         <loc>/data/telecom/West/gujrat</loc>
@@ -194,11 +194,11 @@
     </url>
     <!-- ... (repeat for other HR subdirectories) ... -->
     <url>
-        <loc>/data/WFH/IS.&.Telecom</loc>
+        <loc>/data/WFH/IS.&amp;.Telecom</loc>
     </url>
     <!-- IS.&.Telecom subdirectories -->
     <url>
-        <loc>/data/WFH/IS.&.Telecom/Hari.Om</loc>
+        <loc>/data/WFH/IS.&amp;.Telecom/Hari.Om</loc>
     </url>
     <!-- ... (repeat for other IS.&.Telecom subdirectories) ... -->
     <url>
